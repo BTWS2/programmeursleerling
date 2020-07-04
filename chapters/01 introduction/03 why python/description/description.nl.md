@@ -65,7 +65,7 @@ class Hello {
 En zie nu wat *Hello World* in Python is:
 
 ```python
-print( "Hello, world!" )
+print("Hello, world!")
 ```
 
 Ik neem aan dat we het met elkaar eens zijn dat de Python versie van dit

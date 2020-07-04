@@ -5,7 +5,7 @@ place the code of the *Hello World* program shown in Chapter
 – it consists of one line of code, namely:
 
 ```python
-print( "Hello, world!" )
+print("Hello, world!")
 ```
 
 Run the program, and observe how the text "Hello, world!" is displayed

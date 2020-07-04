@@ -20,7 +20,7 @@ waarbij de hoofdstukken
 <a href="#ch:exceptions" data-reference-type="ref" data-reference="ch:exceptions">18</a>
 (exceptions),
 <a href="#ch:binaryfiles" data-reference-type="ref" data-reference="ch:binaryfiles">19</a>
-(binaire bestanden), and
+(binaire bestanden), en
 <a href="#ch:bitwiseoperators" data-reference-type="ref" data-reference="ch:bitwiseoperators">20</a>
 (bitsgewijze operatoren) beschouwd kunnen worden als optioneel
 materiaal, dat je kunt overslaan totdat je ze nodig hebt (waarbij ik wel
