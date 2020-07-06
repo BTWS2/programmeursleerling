@@ -46,7 +46,7 @@ door dubbele of enkele aanhalingstekens. Een string kan iedere lengte
 hebben, inclusief nul tekens lang.
 
 Let erop dat je alleen "rechte" aanhalingstekens gebruikt in Python
-programma's, en niet "ronde." Tekstverwerkers hebben de neiging om
+programma's, en niet "ronde". Tekstverwerkers hebben de neiging om
 rechte aanhalingstekens automatisch te vervangen door ronde, maar Python
 herkent zulke ronde aanhalingstekens niet. Tekst editors doen dat niet,
 maar als je om wat voor reden dan ook Python code kopieert naar een
