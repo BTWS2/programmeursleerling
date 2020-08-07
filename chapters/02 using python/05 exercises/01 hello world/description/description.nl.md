@@ -5,7 +5,7 @@ schrijft van het *Hello World* programma dat ik liet zien in hoofdstuk
 – het bestaat uit één regel code, namelijk:
 
 ```python
-print("Hello, world!")
+print( "Hello, world!" )
 ```
 
 Draai het programma, en zie dat de tekst "Hello, world!" getoond wordt
